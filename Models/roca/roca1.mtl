@@ -1,0 +1,166 @@
+newmtl Burbuja:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Burbuja.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks burbujaEspecular.png
+Ns 18.00
+newmtl Isla:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd arena.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks IslaEspecular.png
+Ns 18.00
+newmtl Sillon:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd patas.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks patasEspecular.png
+Ns 18.00
+newmtl Sillon:phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Sillon.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SillonEspecular.png
+Ns 18.00
+newmtl Sillon:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cojin.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks cojinEspecular.png
+Ns 18.00
+newmtl alga:pasted__lambert2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl alga:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roca.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks roca.png
+Ns 18.00
+newmtl alga:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd alga.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks alga.jpg
+Ns 18.00
+newmtl coral:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd coralRoca.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks coralRocaEspecular.png
+Ns 18.00
+newmtl coral:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Coral.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoralEspecular.png
+Ns 18.00
+newmtl coral:phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Coral.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks coralRocaEspecular.png
+Ns 18.00
+newmtl coral:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Coral.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks coralRocaEspecular.png
+Ns 18.00
+newmtl coral:phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Coral.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoralEspecular.png
+Ns 18.00
+newmtl coral:phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd arena.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks IslaEspecular.png
+Ns 0.06
+newmtl coral:phongE2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Coral.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoralEspecular.png
+Ns 0.06
+newmtl roca1:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roca3.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks rocaEspecular.png
+Ns 18.00
+newmtl roca2:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roca3.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks rocaEspecular.png
+Ns 18.00
